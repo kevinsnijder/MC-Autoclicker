@@ -1,9 +1,0 @@
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\bin\Release\McAutoClick.exe.config
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\bin\Release\McAutoClick.exe
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\bin\Release\McAutoClick.pdb
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoFish.MainForm.resources
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoFish.Properties.Resources.resources
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoClicker.csproj.GenerateResource.cache
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoClicker.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoClick.exe
-C:\Users\kevin\source\repos\McAutoSlap\McAutoFish\obj\Release\McAutoClick.pdb
